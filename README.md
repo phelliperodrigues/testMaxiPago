@@ -1,4 +1,4 @@
-[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/br.png" width=20>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Portugese - Brazil
+[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/br.png" width=20>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Portuguese - Brazil
 [<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/usa.ico" width=20>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) English - USA
 
 # PROJECT - DISTANCE BETWEEN TWO CITIES
