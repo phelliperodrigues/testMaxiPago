@@ -13,7 +13,7 @@ public class CalcDistance {
 		
 		double distance = haversine(latA, latB, lngA, lngB);	
 		
-		if(unit != null && "MILES".equalsIgnoreCase(unit)){
+		if(unit != null && "mi".equalsIgnoreCase(unit)){
 			distance = distance * 0.621;		
 		}
 		
