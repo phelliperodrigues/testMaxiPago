@@ -1,8 +1,5 @@
-[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/br.png" width=10>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Português - Brasil
-[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/usa.ico" width=10>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) Inglês
-
-
-
+[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/br.png" width=20>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Portugues - Brasil
+[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/usa.ico" width=20>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) Inglês
 # PROJETO - DISTÂNCIA ENTRE DUAS CIDADES 
 **OBJETIVO**
 * Fornecer webservice que retorna lista com combinação de pares de cidades e distância entre elas.
