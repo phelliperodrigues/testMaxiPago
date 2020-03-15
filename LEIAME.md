@@ -1,5 +1,5 @@
-[<img src="https://cdn.icon-icons.com/icons2/107/PNG/512/brazil_18295.png" width=40>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Português - Brasil
-[<img src="https://download.seaicons.com/download/i86350/custom-icon-design/round-world-flags/custom-icon-design-round-world-flags-usa.ico" width=40>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) Inglês
+[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/br.png" width=10>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Português - Brasil
+[<img src="https://github.com/phelliperodrigues/testMaxiPago/blob/master/src/main/resources/templates/usa.ico" width=10>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) Inglês
 
 
 
