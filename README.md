@@ -1,3 +1,8 @@
+[<img src="https://cdn.icon-icons.com/icons2/107/PNG/512/brazil_18295.png" width=40>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Portugese - Brazil
+[<img src="https://download.seaicons.com/download/i86350/custom-icon-design/round-world-flags/custom-icon-design-round-world-flags-usa.ico" width=40>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) English - USA
+
+
+
 # PROJECT - DISTANCE BETWEEN TWO CITIES
 **GOAL**
 * Provide web service that returns list with combination of city pairs and distance between them.

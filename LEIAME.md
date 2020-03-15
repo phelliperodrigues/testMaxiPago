@@ -1,3 +1,8 @@
+[<img src="https://cdn.icon-icons.com/icons2/107/PNG/512/brazil_18295.png" width=40>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/LEIAME.md) Português - Brasil
+[<img src="https://download.seaicons.com/download/i86350/custom-icon-design/round-world-flags/custom-icon-design-round-world-flags-usa.ico" width=40>](https://github.com/phelliperodrigues/testMaxiPago/blob/master/README.md) Inglês
+
+
+
 # PROJETO - DISTÂNCIA ENTRE DUAS CIDADES 
 **OBJETIVO**
 * Fornecer webservice que retorna lista com combinação de pares de cidades e distância entre elas.
